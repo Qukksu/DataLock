@@ -1,1 +1,1 @@
-Datalock.py <encrypt/decrypt> <file name> <password>
+Datalock.py <encrypt/decrypt> <file> <password>
